@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#overview",
@@ -64,23 +64,23 @@
       }
     },
     {
-      "query": "tag:#seventh",
+      "query": "tag:#seven",
       "color": {
         "a": 1,
         "rgb": 10506976
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.14635416666667,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 10.4166666666667,
-  "linkStrength": 0.692708333333333,
-  "linkDistance": 241,
-  "scale": 0.5087618855792674,
+  "centerStrength": 0.545491536458333,
+  "repelStrength": 12.8889973958333,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4505081176757831,
   "close": true
 }
