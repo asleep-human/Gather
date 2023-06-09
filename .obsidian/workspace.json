@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "93d64419af4cfddd",
+        "id": "4780164f6c46bb06",
         "type": "tabs",
         "children": [
           {
-            "id": "5029f29a4e7aa68e",
+            "id": "3f30df8b3917fddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc0ea7c4f9b81a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Fall and Rise of Gather/Information/Crèches.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a544679d9d800195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e933f5588f332c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,11 +93,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,12 +128,20 @@
             }
           },
           {
+            "id": "5029f29a4e7aa68e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "ec77d0672c00b186",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md"
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md"
               }
             }
           },
@@ -182,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,37 +171,42 @@
       "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "3aba25ab8571c0f3",
+  "active": "3f30df8b3917fddd",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
-    "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/Information/Crèches.md",
-    "The Fall and Rise of Gather/1. The First Gathering/Overview 1.md",
-    "The Fall and Rise of Gather/Information",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
     "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
-    "readme.md",
-    "The Fall and Rise of Gather/Information/Description.md",
-    "The Fall and Rise of Gather/Categories/Stories.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Overview 4.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Overview 5.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Overview 1.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
+    "The Fall and Rise of Gather/Categories/Stories.md",
+    "The Fall and Rise of Gather/Information/Crèches.md",
+    "The Fall and Rise of Gather/Information/Description.md",
+    "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
+    "readme.md",
+    "Markdown Cheat Sheet.md",
+    "The Fall and Rise of Gather/Description.md",
+    "The Fall and Rise of Gather/Information",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Overview 5.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Overview 4.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
-    "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
-    "The Fall and Rise of Gather/Categories/Legends.md",
-    "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md",
-    "g r.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering",
+    "The Fall and Rise of Gather/2. The Second Gathering",
+    "The Fall and Rise of Gather/1. The First Gathering",
     "Untitled.canvas",
-    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
-    "The Fall and Rise of Gather/6. The Sixth Gathering",
+    "The Fall and Rise of Gather/The Sixth Gathering",
     "The Fall and Rise of Gather/Gather.canvas"
   ]
 }
