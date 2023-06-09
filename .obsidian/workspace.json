@@ -11,8 +11,12 @@
             "id": "a94aaeac095c6294",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -150,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 400
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +167,9 @@
       "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "a94aaeac095c6294",
+  "active": "5029f29a4e7aa68e",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
     "Untitled.canvas",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Overview 5.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Overview 4.md",
@@ -172,7 +177,6 @@
     "The Fall and Rise of Gather/Information/Notable Characters.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
-    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
     "The Fall and Rise of Gather/3. The Third Gathering",
     "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
     "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
